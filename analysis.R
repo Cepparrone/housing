@@ -1,3 +1,5 @@
+# Questo codice analizza l'andamento dei prezzi delle case di Lussemburgo
+
 library(dplyr)
 library(ggplot2)
 library(purrr)
